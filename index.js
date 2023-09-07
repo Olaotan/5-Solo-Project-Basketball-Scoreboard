@@ -10,7 +10,7 @@ document.getElementById("guest-1")
 document.getElementById("guest-2")
 document.getElementById("guest-3")
 
-let homeScore = 0
+let homeScore = 1
 let guestScore = 0
 
 function addOneHome(){
